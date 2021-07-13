@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "sportta-test",
+    "slug": "sportta-test",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "sportta-test"
+}
